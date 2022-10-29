@@ -1,0 +1,16 @@
+.outter {
+  user-select: none;
+}
+
+.box1 {
+  display: inline-block;
+  background: rgba(255, 0, 0, .1);
+  overflow: hidden;
+}
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 255, 0, .1);
+}

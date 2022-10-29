@@ -1,0 +1,10 @@
+{
+  "name": "VueScrollNum",
+  "version": "1.0.0",
+  "description": "一个vue2的无限滚动动画组件",
+  "main": "index.js",
+  "repository": "https://github.com/LiJuncongDIKU/VueScrollNum.git",
+  "author": "Lijc <ljc1350220@163.com>",
+  "license": "MIT",
+  "private": false
+}
